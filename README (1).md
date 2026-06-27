@@ -1,0 +1,230 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Amandeep%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=aka%20Anmol%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://github.com/amandeep-maan-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Self-Taught+Full-Stack+Developer+%F0%9F%9A%80;6+Years+of+Building+Apps+%26+Products;React+%7C+Next.js+%7C+Flutter+%7C+Python+%7C+Supabase;Cloudflare+Workers+%7C+Three.js+%7C+GSAP;Open+to+Freelance+%26+Collaborations+%F0%9F%A4%9D;Patiala%2C+Punjab%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=amandeep-maan-dev&label=Profile+Views&color=a855f7&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/amandeep-maan-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/amandeep-maan-dev?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const amandeep = {
+  name:         "Amandeep Singh",
+  alias:        "Anmol",
+  location:     "Patiala / Chandigarh, Punjab, India 🇮🇳",
+  education:    "BCA Fintech AI — Amity University Online (2026–2029)",
+  experience:   "6+ years of app & web development",
+  origin:       "Started with Sketchware (Android) at age ~16 🤖",
+
+  currentlyDoing: [
+    "Freelancing on Fiverr, Upwork & PeoplePerHour",
+    "Local client projects in Patiala & Chandigarh",
+    "Building full-stack web & mobile apps",
+    "Exploring LLM integration & AI automation",
+  ],
+
+  techStack: {
+    frontend:  ["React", "Next.js", "Vanilla JS", "Three.js", "GSAP", "Lenis"],
+    mobile:    ["Flutter", "Dart"],
+    backend:   ["Python", "Node.js", "Supabase", "Cloudflare Workers"],
+    tools:     ["Git", "Figma", "VS Code", "Vercel", "Netlify"],
+  },
+
+  languages:    ["Hindi", "Punjabi", "English"],
+  contact:      "anmol.maan.dev@gmail.com",
+  whatsapp:     "+91 93509 01989",
+  funFact:      "ITI Welding certified + self-taught dev. Jack of all trades 🔥",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend & Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+
+### ⚙️ Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| # | Project | Description | Tech Stack | Status |
+|---|---------|-------------|------------|--------|
+| 01 | 🖥️ **MCC Website** | Full redesign for Micro Computer Centre, Panipat — animations, 3D hero, modern UI | Vanilla JS, Three.js, GSAP | ✅ Live |
+| 02 | 🏫 **Sure Computers Platform** | Institute management system — student/admin panels, Instagram auto-sync | Vanilla JS, Supabase, Edge Functions | 🔧 In Progress |
+| 03 | 🎵 **Musio** | Flutter music app with reverse-engineered JioSaavn API — BlackHole fork | Flutter, Dart, JioSaavn API | ✅ Built |
+| 04 | 🤖 **AI Telegram Bot** | Multi-key OpenRouter load balancer, Hinglish personality, human-like responses | Python, Telegram API, OpenRouter | ✅ Deployed |
+| 05 | 📺 **ToonStream** | Anime streaming platform with Cloudflare Worker scraper API | JS, Cloudflare Workers | ✅ Built |
+| 06 | 📚 **SHLF** | Library management app for Sure Computers Patiala | Android / Java | ✅ Delivered |
+| 07 | 🏫 **Navneet Public School** | School website + app pitch with live demo | Next.js, Vercel | ✅ Demo Live |
+| 08 | 📡 **StreamVault PRD** | Full PRD for streaming aggregator using CloudStream extensions | Supabase, Deno Deploy | 📄 Planned |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amandeep-maan-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=7c3aed" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-maan-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=a855f7" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-maan-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" width="48%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amandeep-maan-dev&theme=tokyonight&utcOffset=5.5" width="48%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeep-maan-dev&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&area_color=a855f720&hide_border=true&custom_title=Amandeep's%20Contribution%20Graph" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandeep-maan-dev/amandeep-maan-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandeep-maan-dev/amandeep-maan-dev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/amandeep-maan-dev/amandeep-maan-dev/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amandeep-maan-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+</div>
+
+---
+
+## 💼 What I Offer
+
+<div align="center">
+
+| Service | Details |
+|---------|---------|
+| 🌐 **Web Development** | Custom websites, landing pages, business sites with modern animations |
+| 📱 **Mobile Apps** | Cross-platform Flutter apps for Android & iOS |
+| 🤖 **AI / Bot Automation** | Telegram bots, Python automation, OpenAI API integrations |
+| 🎨 **3D & Animated UIs** | Three.js, GSAP, Lenis smooth scroll — premium visual experiences |
+| 🏢 **Local Business Outreach** | Based in Patiala/Chandigarh — available for in-person client meetings |
+
+</div>
+
+---
+
+## 📅 Currently Learning
+
+<div align="center">
+
+![Fintech AI](https://img.shields.io/badge/Fintech_AI-BCA_Program-a855f7?style=for-the-badge&logo=coursera&logoColor=white)
+![LLM Deployment](https://img.shields.io/badge/Local_LLM_Deployment-GGUF-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![Deno Deploy](https://img.shields.io/badge/Deno_Deploy-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Advanced GSAP](https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-anmol.maan.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmol.maan.dev@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_93509_01989-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919350901989)
+&nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+&nbsp;
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+<br/>
+
+*"6 saal pehle Sketchware se shuru kiya tha. Aaj full-stack ship karta hoon."* 🚀
+
+**Made with 💜 from Patiala, Punjab, India**
+
+![](https://hit.yhype.me/github/profile?user_id=amandeep-maan-dev)
+
+</div>
